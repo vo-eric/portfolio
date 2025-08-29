@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://ericvo.dev'),
   title: 'Eric Vo - Software Engineer',
   description:
     'I’m a software engineer with three years of experience building digital products for startups and fast moving teams, with a strong focus on front-end development and cross-platform applications. I’ve delivered features like biometric authentication, reusable content systems, and real-time data integrations that directly improved user experience and reduced costs. I thrive in collaborative environments where ideas move quickly and engineering plays a direct role in shaping the product.',
